@@ -96,9 +96,10 @@ const aubrey = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aubreyosenda&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <!-- After deploying your own instance, replace github-readme-stats.vercel.app with your-deployed-url.vercel.app -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aubreyosenda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aubreyosenda&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aubreyosenda&layout=compact&theme=radical&hide_border=true&count_private=true)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aubreyosenda&theme=radical&hide_border=true)
   
