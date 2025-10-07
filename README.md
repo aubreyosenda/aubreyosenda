@@ -91,12 +91,12 @@ const aubrey = {
     funFact: "I bridge the gap between geography and technology!"
 };
 ```
-
+  <!-- After deploying your own instance, replace github-readme-stats.vercel.app with your-deployed-url.vercel.app 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  <!-- After deploying your own instance, replace github-readme-stats.vercel.app with your-deployed-url.vercel.app -->
+
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aubreyosenda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aubreyosenda&theme=radical&hide_border=true)
@@ -110,7 +110,7 @@ const aubrey = {
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aubreyosenda&theme=redical&hide_border=true&custom_title=Contribution%20Activity%20Graph)
   
 </div>
-
+-->
 ## 🏆 Key Achievements
 
 - 🥇 Senior Android Developer at VANATEL - Developed SIDAR application
