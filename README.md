@@ -16,7 +16,7 @@ I'm a passionate **Software Developer** and **GIS Specialist** with expertise in
 - 🎓 Bachelor of Science in Geography from Laikipia University
 - 💼 Senior Android Developer with experience in full-stack development
 - 🏢 Member of [Ecospace Services Limited](https://github.com/Ecospace-Services-Limited)
-- 🌍 Based in Nyahururu, Kenya
+- 🌍 Based in Nairobi, Kenya
 - 🌐 Portfolio: [aubreyosenda.ct.ws](https://aubreyosenda.ct.ws/)
 - 🔭 Currently working on GIS-integrated applications
 - 🌱 Continuously learning and exploring new technologies
@@ -75,7 +75,7 @@ I'm a passionate **Software Developer** and **GIS Specialist** with expertise in
 
 ```javascript
 const aubrey = {
-    location: "Nyahururu, Kenya",
+    location: "Nairobi, Kenya",
     portfolio: "https://aubreyosenda.ct.ws/",
     education: "B.Sc. Geography - Laikipia University",
     organization: "Ecospace Services Limited",
