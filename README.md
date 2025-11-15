@@ -28,7 +28,9 @@ I'm a passionate **Software Developer** and **GIS Specialist** with expertise in
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,6 +50,7 @@ I'm a passionate **Software Developer** and **GIS Specialist** with expertise in
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -60,16 +63,22 @@ I'm a passionate **Software Developer** and **GIS Specialist** with expertise in
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ### GIS & Spatial Analysis
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🎯 Areas of Expertise
 
@@ -85,9 +94,21 @@ const aubrey = {
         "Geographic Information Systems (GIS)",
         "Spatial Data Analysis & Remote Sensing",
         "API Development & Integration",
-        "Database Design & Management"
+        "Database Design & Management",
+        "DevOps & Cloud Infrastructure",
+        "Microservices Architecture",
+        "Containerization with Docker",
+        "Server Management & Deployment"
     ],
-    currentFocus: "Building innovative GIS-integrated applications",
+    devOpsTools: [
+        "Nginx - Web server & reverse proxy configuration",
+        "PM2 - Process management for Node.js applications",
+        "Docker - Containerization & orchestration",
+        "Linux - Server administration & shell scripting",
+        "Git - Version control & CI/CD pipelines",
+        "Site Deployment - Production-ready application hosting"
+    ],
+    currentFocus: "Building scalable GIS-integrated applications with modern DevOps practices",
     funFact: "I bridge the gap between geography and technology!"
 };
 ```
@@ -119,12 +140,14 @@ const aubrey = {
 - 🌟 Integrated GIS capabilities with modern web and mobile technologies
 - 📱 Built full-stack applications using MERN and PERN stacks
 - 🎓 Combined geographical expertise with programming skills
+- 🚀 Deployed and managed production applications using modern DevOps practices
 
 ## 🔥 What I'm Working With
 
 ### Full Stack Development
 - **MERN Stack**: MongoDB, Express.js, React, Node.js
 - **PERN Stack**: PostgreSQL, Express.js, React, Node.js
+- **LAMP Stack**: Linux, Apache/Nginx, MySQL, PHP
 - Building scalable REST APIs and GraphQL services
 - Implementing responsive and dynamic user interfaces
 
@@ -132,6 +155,15 @@ const aubrey = {
 - Native Android development with Java & Kotlin
 - Cross-platform apps with Flutter & React Native
 - Integrating mobile apps with backend services
+
+### DevOps & Infrastructure
+- **Containerization**: Docker for application packaging and deployment
+- **Process Management**: PM2 for Node.js application lifecycle management
+- **Web Servers**: Nginx for reverse proxy, load balancing, and serving static content
+- **System Administration**: Linux server configuration, security, and optimization
+- **CI/CD**: Git-based workflows and automated deployment pipelines
+- **Microservices**: Designing and deploying distributed system architectures
+- **Site Deployment**: Setting up production environments on VPS and cloud platforms
 
 ### GIS Integration
 - Spatial data analysis and visualization
